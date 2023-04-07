@@ -3,6 +3,8 @@
 Supplementary material for our paper titled "Framework for digital twin creation in off-road environments
 from LiDAR scans".
 
+![framework](figures/framework.png?raw=true)
+
 ## LiDAR Data
 
 LiDAR-scanned point clouds used in the paper can be downloaded from the following Google Drive links. 
@@ -15,3 +17,11 @@ LiDAR-scanned point clouds used in the paper can be downloaded from the followin
 To run the code for terrain segmentation, tree clustering, and terrain meshing, use the following command:
     
     python off-road-digital-twin.py data/CAVS_Backyard_track_only.ply data/CAVS_Backyard_terrain_only_0.01.ply
+
+## Results
+
+![tree-results](figures/tree_segmentation_results.png?raw=true)
+
+![terrain-results](figures/terrain_segmentation_results.png?raw=true)
+
+
