@@ -11,7 +11,8 @@ LiDAR-scanned point clouds used in the paper can be downloaded from the followin
 
 1. [CAVS\_Backyard\_track\_only.ply](https://drive.google.com/file/d/1UZoh22e8g9w7In62pIuFmtEHVhRBQMwp/view?usp=sharing)
 2. [CAVS\_Backyard\_terrain\_only\_0.01.ply](https://drive.google.com/file/d/1dGpQTv501qe9y9rQXEH8vN5Hc07ZvNNA/view?usp=sharing)
-3. [CAVS\_Backyard\_Husky\_track\_only.ply](https://drive.google.com/file/d/125uWzAHpp_8jrUDOrXr5GxqukYwXAwk3/view?usp=sharing)
+3. [CAVS\_Backyard\_Husky\_merged.ply](https://drive.google.com/file/d/125uWzAHpp_8jrUDOrXr5GxqukYwXAwk3/view?usp=sharing)
+4. [CAVS\_Backyard\_Husky\_track\_only.ply](https://drive.google.com/file/d/17P_8gRbYPxR0wAljyPUOuKEhukx6mf7E/view?usp=sharing)
 
 ## Segmentation, Clustering, and Meshing
 
