@@ -1,7 +1,6 @@
 # Digital Twin Creation in Off-road Environments
 
-Supplementary material for our paper titled "Framework for digital twin creation in off-road environments
-from LiDAR scans".
+Supplementary material for our paper [Framework for digital twin creation in off-road environments from LiDAR scans](http://doi.org/10.1117/12.2663632) presented at the SPIE Defense and Commercial Sensing conference 2023.
 
 ![framework](figures/framework.png?raw=true)
 
@@ -26,4 +25,22 @@ To run the code for terrain segmentation, tree clustering, and terrain meshing, 
 
 ![terrain-results](figures/terrain_segmentation_results.png?raw=true)
 
+## Citing Our Work
+We appreciate your support! If you find our code helpful in your research or work, please consider citing our paper.
 
+```bibtext
+@inproceedings{chen2023spie,
+author = {Jingdao Chen and Mikias Gugssa and Justin Yee and Jun Wang and Christopher Goodin and Athish Ram Das},
+title = {{Framework for digital twin creation in off-road environments from LiDAR scans}},
+volume = {12529},
+booktitle = {Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications},
+editor = {Christopher L. Howell and Kimberly E. Manser and Raghuveer M. Rao},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {125290F},
+keywords = {LiDAR, Off-road, Digital twin, Point cloud, Simulator},
+year = {2023},
+doi = {10.1117/12.2663632},
+URL = {https://doi.org/10.1117/12.2663632},
+}
+```
